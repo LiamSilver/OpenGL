@@ -8,9 +8,6 @@ float altura;
 float aspecto;
 float angle = 1;
 
-void idle(){
-    glutPostRedisplay();
-}
 void alteraTamanhoJanela(GLsizei w, GLsizei h)
 {
     if (h == 0)
