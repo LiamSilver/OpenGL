@@ -1,15 +1,8 @@
 # depslib dependency file v1.0
-1698156475 source:c:\users\user\desktop\will cg\opengl\helloworld\helloworld\main.cpp
-	<GL/gl.h>
-	<GL/glut.h>
-	<math.h>
-
-1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
-
-976674172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+1698493232 source:c:\users\william\desktop\utfpr\5º periodo\cg\opengl\quadrados\quadrados\main.cpp
 	<windows.h>
-	<GL/gl.h>
-	<GL/glu.h>
+	<gl/gl.h>
+	<gl/glut.h>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -215,15 +208,14 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+976674172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
-	<_mingw.h>
-
-1698493232 source:c:\users\william\desktop\utfpr\5º periodo\cg\opengl\helloworld\helloworld\main.cpp
-	<GL/gl.h>
-	<GL/glut.h>
-	<math.h>
 
